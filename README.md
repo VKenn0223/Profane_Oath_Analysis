@@ -2,7 +2,8 @@
 
 This project aims to examine the presence of profane oaths in five-act Early Modern English Plays.
 
-The data used consisted of .xml files encoded under the Shakespeare His Contemporaries project and was sourced from A Digital Anthology of Early Modern English Drama (EMED). None of the original source .xml files were changed.
+The data used consists of .xml files encoded under the Shakespeare His Contemporaries project and was sourced from A Digital Anthology of Early Modern English Drama (EMED). None of the original source .xml files were changed.
+The metadata file was originally sourced from EMED but has been altered to only include those plays worked with.
 
 
 Sources:
